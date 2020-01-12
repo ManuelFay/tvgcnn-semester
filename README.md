@@ -1,6 +1,6 @@
 # TV-GCNN - Semester project
 
-This repository contains the code developped during en EPFL semester project in the LTS4 Laboratory. To run the code, PyTorch, TensorFlow, PyGSP, Networkx and ndlib.models librairies should be installed in a Python3 environment.
+This repository contains the code developped during an EPFL semester project in the LTS4 Laboratory. To run the code, PyTorch, TensorFlow, PyGSP, Networkx and ndlib.models librairies should be installed in a Python3 environment.
 
 
 The initial TV-GCNN repository is based on the work of Guillermo Ortiz Jiménez and can be found with the following references.
